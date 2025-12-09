@@ -250,7 +250,7 @@ for number in numbers:
 print(f"Largest number is: {max}")
 
 ############List methods###############
-List are represented in square bracket
+#List are represented in square bracket
 x = [5,2,1,7,4]
 x.append(20)#adds 20 to the end of the list
 print(x)
@@ -409,7 +409,7 @@ print(maxNum)
 minNum = x[0]
 for num in x:
     if minNum > num:
-        maxNum = nums
+        maxNum = num
 print(maxNum) 
 
 
